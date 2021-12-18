@@ -1,2 +1,2 @@
-# FileApp_Android
-<img src="FileApp.gif" alt="video demo"/>
+# Sensor
+<img src="SensorApp.gif" alt="video demo"/>
